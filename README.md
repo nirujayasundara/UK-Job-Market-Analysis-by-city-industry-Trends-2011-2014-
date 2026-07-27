@@ -14,7 +14,7 @@ This project analyses job change across 16 UK city-regions and both broad (1-dig
 
 - Which industries grew or shrank the most between 2011 and 2014?
 - Which cities saw the strongest employment growth?
-- How does that growth break down by sub-industry within each city?
+- How does that growth break down by sub industry within each city?
 
  Dashboard components
 
